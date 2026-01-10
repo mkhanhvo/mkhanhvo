@@ -8,6 +8,4 @@ I’m looking for an opportunity in an HR Data / People Analytics team, preferab
 
 ### Tools I use:
 
-![image alt](https://github.com/mkhanhvo/mkhanhvo/blob/8cbe197ffb9f2321440cde176817a05610dcc902/Tools%20(1).png)
-
-![image alt](https://github.com/mkhanhvo/mkhanhvo/blob/42cc95776ea3fcb3fcc466a1dee5796f5b1a604e/query%20(2).png)
+![image alt](https://github.com/mkhanhvo/mkhanhvo/blob/e1d9458a3025df062022b6e5c2483394c2f4e3cf/tools%20(4).png)
